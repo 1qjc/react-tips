@@ -17,6 +17,8 @@ _You can safely modify parts of the DOM that React has no reason to update_
 [[You might not need an Effect]](https://react.dev/learn/synchronizing-with-effects#you-might-not-need-an-effect)  
 _Don’t rush to add Effects to your components_  
 
+[[**"Resetting all state when a prop changes**](https://react.dev/learn/you-might-not-need-an-effect#resetting-all-state-when-a-prop-changes)]  
+_Always check whether you can reset all state with a key or calculate everything during rendering instead_  
 
 **********************
 
