@@ -28,4 +28,4 @@ _Always check whether you can reset all state with a key or calculate everything
 _#####_  
 _#####_  
 
-
+create a podcast with ai as a third wheel ~
